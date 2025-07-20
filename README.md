@@ -4,12 +4,13 @@ Custom keyboard designed to use the keycaps from the Alcatel-Lucent MMK, manufac
 Designed in Onshape and KiCad.
 Powered by [QMK](https://github.com/qmk/qmk_firmware).
 
-![Front](https://github.com/nearestexit/alcatel100/blob/main/Pictures/front.JPG)
+![Front](https://github.com/nearestexit/alcatel100/blob/main/Pictures/Front.JPG)
 
 
 ## Overview
-A fullsize keyboard that utilizes the Cherry-profile keycaps made for the [Alcatel-Lucent MMK](https://deskthority.net/viewtopic.php?t=23887)
+A fullsize keyboard that utilizes the Cherry-profile keycaps made for the [Alcatel-Lucent MMK](https://deskthority.net/viewtopic.php?t=23887).
 The Enter, Backspace, and Right Shift are 0.25u shorter than a normal keyboard, necessitating a keyboard designed specifically for them.
+
 Complete, tested production files are provided in this repository. However, I mostly intend this to serve as a reference for others to design their own keyboards.
 
 ![Back](https://github.com/nearestexit/alcatel100/blob/main/Pictures/back.JPG)
@@ -46,3 +47,5 @@ I ordered a single bare PCB from EuroCircuits and hand-soldered the components, 
 The tolerances around the heads of the screws are very tight. Using hardware with dimensions that do not match these McMaster parts may have unintended consequences.
 
 ![backlight](https://github.com/nearestexit/alcatel100/blob/main/Pictures/backlight.JPG)
+
+![bottom](https://github.com/nearestexit/alcatel100/blob/main/Pictures/bottom.JPG)
