@@ -35,6 +35,7 @@ I ordered a single bare PCB from EuroCircuits and hand-soldered the components, 
 
 | Item  | Quantity | Link |
 | ------------- | ------------- | ------------- | 
+| 3M SJ5302 | 4  | https://www.3m.com/3M/en_US/p/d/b5005035183/ |
 | Unified Daughterboard  | 1  | https://cannonkeys.com/products/unified-daughterboard-and-jst-cable |
 | M2.5x0.45x8mm SHCS | 6  | https://www.mcmaster.com/91292A012/ |
 | 10cm Molex to JST Cable | 1 | https://cannonkeys.com/products/unified-daughterboard-and-jst-cable |
