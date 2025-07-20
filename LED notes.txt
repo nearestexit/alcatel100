@@ -1,0 +1,14 @@
+We have 18 LEDs on our backlight
+
+https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/BL-B8141-TRS20A/22486924
+
+forward voltage = 2 V
+
+We choose:
+R = 470
+
+V/R = I = 2/470 = 0.0043 A = 4.3 mA
+18*4.3 = 77.4 mA
+
+irlml2502 has plenty of current to power this. https://www.infineon.com/dgdl/irlml2502pbf.pdf?fileId=5546d462533600a401535668048e2606
+

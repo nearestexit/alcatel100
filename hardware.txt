@@ -1,0 +1,41 @@
+front case screws
+m2.5x8mm alloy steel socket head screws x5
+goes through 3.1mm of untapped bottom case before hitting 7mm deep hole, tapped to 6.1mm
+https://www.mcmaster.com/91292A012
+
+front (smallest) divider screw 
+m2.5x8mm alloy steel socket head screws x1
+goes through 1.8mm of untapped bottom case before hitting hole tapped to 9.6mm
+https://www.mcmaster.com/91292A012
+
+middle divider screw
+m2.5x16 alloy steel socket head screw x1
+goes through 7.9mm of untapped bottom case before hitting hole tapped to 9.6mm
+https://www.mcmaster.com/91292A018/
+
+rear (longest) divider screw
+m2.5x20 alloy steel socket head screw x1
+goes through 14.11mm to untapped bottom case before hitting hole tapped to 9.6mm
+https://www.mcmaster.com/91292A019/
+
+rear case screws
+m2.5x20 alloy steel socket head screws x5
+goes through 15.5mm of untapped bottom case before hitting hole tapped to 6.1mm
+https://www.mcmaster.com/91292A019/
+
+plate screws
+m2x4mm alloy steel socket head screws x10
+goes through 1.6mm of untapped plate before hitting hitting hole tapped to 3.8mm
+https://www.mcmaster.com/91292A005/
+
+short weight screws
+m3x6mm countersunk alloy steel hex drive flat head screws x5
+goes through 2.5mm of untapped bottom case before hitting hole tapped to 4mm
+https://www.mcmaster.com/92125A126/
+
+medium & long weight screws
+m3x8mm countersunk alloy steel hex drive flat head screws x8
+goes through 4.5mm of untapped bottom case before hitting hole tapped to 4mm
+https://www.mcmaster.com/92125A128/
+
+

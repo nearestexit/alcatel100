@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "alcatel")(type "KiCad")(uri "${KIPRJMOD}/alcatel.pretty")(options "")(descr ""))
+  (lib (name "10051922-1210EHLF")(type "KiCad")(uri "${KIPRJMOD}/10051922-1210EHLF.pretty")(options "")(descr ""))
+)
