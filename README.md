@@ -35,6 +35,7 @@ I ordered a single bare PCB from EuroCircuits and hand-soldered the components, 
 
 | Item  | Quantity | Link |
 | ------------- | ------------- | ------------- | 
+| Ribbon Cable | 1 | https://www.digikey.com/en/products/detail/molex/0151660207/3281088 |
 | 3M SJ5302 | 4  | https://www.3m.com/3M/en_US/p/d/b5005035183/ |
 | Unified Daughterboard  | 1  | https://cannonkeys.com/products/unified-daughterboard-and-jst-cable |
 | M2.5x0.45x8mm SHCS | 6  | https://www.mcmaster.com/91292A012/ |
@@ -45,8 +46,19 @@ I ordered a single bare PCB from EuroCircuits and hand-soldered the components, 
 | M3x0.5x6mm Countersunk Screw | 5 | https://www.mcmaster.com/92125A126/ |
 | M3x0.5x8mm Countersunk Screw | 8 | https://www.mcmaster.com/92125A128/ |
 
-The tolerances around the heads of the screws are very tight. Using hardware with dimensions that do not match these McMaster parts may have unintended consequences.
+## Backlight
+
+Each lock light is controlled by a separate pin and has a fixed brightness. The remainder of the windowed keys are all on the same PWM dimmable circuit.
+I used [these](https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/BL-B8141-TRS20A/22486924) LEDs, which have a nice color, but MX switches are actually supposed to be 3mm *flangeless* LEDs. These LEDs are 3mm but they're flanged, so I had to manually remove all the flanges (not fun).
 
 ![backlight](https://github.com/nearestexit/alcatel100/blob/main/Pictures/backlight.JPG)
+
+## Firmware
+
+A QMK .bin file is provided for flashing, as well as QMK source files. I can port it to Vial upon request.
+
+## Credits
+
+Everyone in the Keyboard Atelier who has helped me over the past 2 years.
 
 ![bottom](https://github.com/nearestexit/alcatel100/blob/main/Pictures/bottom.JPG)
