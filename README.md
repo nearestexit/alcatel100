@@ -1,6 +1,6 @@
 # alcatel100
 
-Custom keyboard designed to use the keycaps from the Alcatel-Lucent MMK, manufactured by GMK.
+Custom keyboard designed to use the GMK-made keycaps from the Alcatel-Lucent MMK.
 Designed in Onshape and KiCad.
 Powered by [QMK](https://github.com/qmk/qmk_firmware).
 
@@ -9,14 +9,14 @@ Powered by [QMK](https://github.com/qmk/qmk_firmware).
 
 ## Overview
 A fullsize keyboard that utilizes the Cherry-profile keycaps made for the [Alcatel-Lucent MMK](https://deskthority.net/viewtopic.php?t=23887).
-The Enter, Backspace, and Right Shift are 0.25u shorter than a normal keyboard, necessitating a keyboard designed specifically for them.
+The Enter, Backspace, and Right Shift are 0.25u shorter than a normal keyboard, requiring a keyboard designed specifically for them.
 
 Complete, tested production files are provided in this repository. However, I mostly intend this to serve as a reference for others to design their own keyboards.
 
-![Back](https://github.com/nearestexit/alcatel100/blob/main/Pictures/back.JPG)
+![Back](https://github.com/nearestexit/alcatel100/blob/main/Pictures/combo2.png)
 
 ## Design Goals
-- OTD 356-style box on wedge with seamless sides all around, including the back
+- Box-on-wedge with seamless sides all around, including the back
 - Left half of the keyboard isolated from the right half
 - Single-color PWM-dimmable backlight
 - Uniform 4.8mm bezels
@@ -49,7 +49,7 @@ I ordered a single bare PCB from EuroCircuits and hand-soldered the components, 
 ## Backlight
 
 Each lock light is controlled by a separate pin and has a fixed brightness. The remainder of the windowed keys are all on the same PWM dimmable circuit.
-I used [these](https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/BL-B8141-TRS20A/22486924) LEDs, which have a nice color, but MX switches are actually supposed to be 3mm *flangeless* LEDs. These LEDs are 3mm but they're flanged, so I had to manually remove all the flanges (not fun).
+I used [these](https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/BL-B8141-TRS20A/22486924) LEDs, which have a nice color, but MX LEDs are actually supposed to be 3mm *flangeless* LEDs. These LEDs are 3mm but they're flanged, so I had to manually remove all the flanges (not fun).
 
 ![backlight](https://github.com/nearestexit/alcatel100/blob/main/Pictures/backlight.JPG)
 
@@ -61,4 +61,4 @@ A QMK .bin file is provided for flashing, as well as QMK source files. I can por
 
 Everyone in the Keyboard Atelier who has helped me over the past 2 years.
 
-![bottom](https://github.com/nearestexit/alcatel100/blob/main/Pictures/bottom.JPG)
+![bottom](https://github.com/nearestexit/alcatel100/blob/main/Pictures/backlight2.JPG)
